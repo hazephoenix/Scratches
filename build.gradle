@@ -1,0 +1,31 @@
+plugins {
+    id 'java'
+}
+
+group 'Automation'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+compileTestJava.options.encoding = "UTF-8"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.10.0'
+    compile group: 'org.testng', name: 'testng', version: '7.0.0'
+    compile group: 'io.rest-assured', name: 'rest-assured', version: '4.1.1'
+    testCompile group: 'com.codeborne', name: 'selenide', version: '5.3.1'
+    testCompile group: 'org.assertj', name: 'assertj-core', version: '3.13.2'
+}
+
+test {
+    useTestNG()
+    options.suites("src/test/resources/TestNG.xml")
+}
+
+
+
+

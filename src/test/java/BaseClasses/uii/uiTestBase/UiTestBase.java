@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeTest;
 
 public class UiTestBase {
 
-    @BeforeTest
+    @BeforeTest(alwaysRun = true)
     public void setup() {
         WebDriverManager.chromedriver().setup();
         Configuration.baseUrl = "https://potolkoff58.ru";

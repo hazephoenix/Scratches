@@ -1,5 +1,8 @@
 package BaseClasses.api.POJO;
 
+import lombok.Data;
+
+@Data
 public class TokenResponse {
 
     private String token;

@@ -1,0 +1,25 @@
+{
+  "id": "4658bb28-2470-4451-accf-81f2f1430c6f",
+  "resourceType": "DiagnosticReport",
+  "subject": {
+    "reference": "Patient/1a77ce5f-8473-4627-84b0-b1ddc5c46364",
+    "type": "Patient"
+  },
+  "performer": [
+    {
+      "reference": "Practitioner/ced3c7cf-db62-4a3a-88bd-a745fefdc476",
+      "type": "Practitioner"
+    }
+  ],
+  "conclusionCode": [
+    {
+      "coding": [
+        {
+          "code": "A00.0",
+          "system": "ValueSet/ICD-10"
+        }
+      ]
+    }
+  ],
+  "status": "preliminary"
+}

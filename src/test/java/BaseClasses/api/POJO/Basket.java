@@ -20,7 +20,7 @@ public class Basket {
 
 
     public static void getBasket(String basketId, TokenResponse authorizationToken) {
-        Response response = given().log().all().
+        Response response = given().
                 header("Authorization", authorizationToken.getToken()).
                 when().
                 get(BASKETS_API_URL + basketId).
@@ -47,7 +47,7 @@ public class Basket {
                 when().
                 put(BASKETS_API_URL + basketId).
                 then().
-                statusCode(204).log().all();
+                statusCode(204);
     }
 
     public static void deleteBasket(String basketId, TokenResponse authorizationToken) {
@@ -56,7 +56,7 @@ public class Basket {
                 when().
                 delete(BASKETS_API_URL + basketId).
                 then().
-                statusCode(204).log().all();
+                statusCode(204);
     }
 
     public Basket(String capacity, String forward_url) {

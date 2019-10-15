@@ -3,8 +3,8 @@
 <suite name="TestSuite">
     <test name="AutoQA">
         <classes>
-            <class name="tests.apiTests.CrudTest"/>
-            <class name="tests.uiTests.PotolkoffEnd2EndTest"></class>
+            <class name="tests.uiTests.Test4"/>
+            <class name="tests.uiTests.TestClass"></class>
         </classes>
     </test>
 </suite>

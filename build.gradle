@@ -1,5 +1,6 @@
 plugins {
     id 'java'
+    id 'io.franzbecker.gradle-lombok' version '3.2.0'
 }
 
 group 'Automation'
@@ -15,16 +16,36 @@ repositories {
 
 dependencies {
     compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.10.0'
-    compile group: 'org.testng', name: 'testng', version: '7.0.0'
+    testCompile group: 'org.testng', name: 'testng', version: '7.0.0'
     compile group: 'io.rest-assured', name: 'rest-assured', version: '4.1.1'
     testCompile group: 'com.codeborne', name: 'selenide', version: '5.3.1'
     testCompile group: 'org.assertj', name: 'assertj-core', version: '3.13.2'
+    compile group: 'io.qameta.allure', name: 'allure-rest-assured', version: '2.13.0'
+    compile group: 'io.qameta.allure', name: 'allure-attachments', version: '2.13.0'
+    compile group: 'org.jsonschema2pojo', name: 'jsonschema2pojo-core', version: '1.0.1'
 }
 
-test {
-    useTestNG()
-    options.suites("src/test/resources/TestNG.xml")
+lombok {
+    version = "1.18.10"
+    sha256 = "2836e954823bfcbad45e78c18896e3d01058e6f643749810c608b7005ee7b2fa"
 }
+
+tasks.withType(Test) {
+    useTestNG()
+}
+
+
+task testSuite(type: Test, dependsOn: clean) {
+    options.suites("src/test/resources/SmokeTests.xml")
+}
+
+task runTests(type: Test, dependsOn: clean) {
+    options.suites("src/test/resources/ApiTests.xml")
+}
+
+
+
+
 
 
 

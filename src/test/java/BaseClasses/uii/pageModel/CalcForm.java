@@ -19,9 +19,11 @@ public class CalcForm {
         calc.$("#check2").setSelected(true);
         calc.$("input[name=param3]").setValue("4");
         calc.$("#check3").setSelected(true);
+
         if (calc.$("#check3").isSelected()) {
             calc.$("input[name=param5]").setValue("3");
         }
+
         calc.$("input[name=param6]").setValue("1");
         calc.$("input[name=param7]").setValue("5");
         calc.$("input[name=param8]").setValue("2");

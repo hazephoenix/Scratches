@@ -1,18 +1,14 @@
 package BaseClasses.api.apiTestBase;
 
-import org.testng.annotations.BeforeTest;
+import io.restassured.RestAssured;
+import org.testng.annotations.BeforeClass;
 
 
 public class ApiTestBase {
 
-    @BeforeTest
+    @BeforeClass
     public void setup() {
-
-    }
-
-    @BeforeTest
-    public void tearDown() {
-
+        RestAssured.enableLoggingOfRequestAndResponseIfValidationFails();
     }
 
 }

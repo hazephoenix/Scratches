@@ -34,7 +34,7 @@ public class Basket {
                 body(requestBody).
                 when().
                 post(BASKETS_API_URL + generatedBasketId).
-                then().
+                then().statusCode(201).
                 extract().response().as(TokenResponse.class);
     }
 

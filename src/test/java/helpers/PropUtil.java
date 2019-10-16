@@ -9,12 +9,11 @@ import java.util.Properties;
 
 public class PropUtil {
 
-
         private static Properties props;
 
 
         public static void loadProps() {
-            File file = new File("./src/main/resources/testconfig.properties");
+            File file = new File("./src/test/resources/enviroment.properties");
             try
                     (FileInputStream fileInput = new FileInputStream(file))
             {

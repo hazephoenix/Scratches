@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b75bf3fb-6262-4778-932e-6463fc75867d" name="Default Changelist" comment="" />
+    <list default="true" id="b75bf3fb-6262-4778-932e-6463fc75867d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BaseClasses/api/POJO/RequestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.2/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/BaseClasses/api/POJO/Basket.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/BaseClasses/api/POJO/Basket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/BaseClasses/api/POJO/TokenResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/BaseClasses/api/POJO/TokenResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/BaseClasses/api/apiTestBase/ApiTestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/BaseClasses/api/apiTestBase/ApiTestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/BaseClasses/uii/pageModel/CalcForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/BaseClasses/uii/pageModel/CalcForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/BaseClasses/uii/uiTestBase/UiTestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/BaseClasses/uii/uiTestBase/UiTestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/helpers/PropUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/helpers/PropUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/tests/apiTests/CrudTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/tests/apiTests/CrudTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/TestNG.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseClasses/api/POJO/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseClasses/api/POJO/Basket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseClasses/api/apiTestBase/ApiTestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseClasses/api/apiTestBase/ApiTestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseClasses/api/apiTestBase/LogListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseClasses/api/apiTestBase/data/Cabinet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseClasses/api/endpoints/SmartClinicResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseClasses/api/endpoints/DigitalHostpitalApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/helpers/DateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/helpers/DateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/helpers/PropUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/helpers/PropUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/apiTests/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/helpers/DB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/uiTests/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/uiTests/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/ApiTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestNgSuites/ApiTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/SmokeTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestNgSuites/SmokeTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/allure.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/enviroment.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +85,25 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="FrameworkDemo" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="verification" type="c8890929:TasksNode$1" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FrameworkDemo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FrameworkDemo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="documentation" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FrameworkDemo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
@@ -49,21 +117,34 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RrwTks8qD3BVCq6lJ6cMFLWgVX" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Autotests\RestApiAutomationFrameworkScratches\FrameworkDemo\src\test\resources" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Autotests\RestApiAutomationFrameworkScratches\FrameworkDemo\src\test\resources" />
       <recent name="C:\Autotests\RestApiAutomationFrameworkScratches\FrameworkDemo" />
       <recent name="C:\Autotests\RestApiAutomationFrameworkScratches\FrameworkDemo\src\test\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Autotests\RestApiAutomationFrameworkScratches\FrameworkDemo\src\test\resources\TestNgSuites" />
+      <recent name="C:\Autotests\RestApiAutomationFrameworkScratches\FrameworkDemo\src\test\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -78,7 +159,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Autotests/RestApiAutomationFrameworkScratches/FrameworkDemo/src/test/resources/TestNG.xml">
+  <component name="RunManager" selected="Application.RequestData">
+    <configuration name="RequestData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaseClasses.api.POJO.RequestData" />
+      <module name="FrameworkDemo.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaseClasses.api.POJO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CrudTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -119,7 +213,7 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="FrameworkDemo [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FrameworkDemo [runTests]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -130,7 +224,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="test" />
+            <option value="runTests" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -138,33 +232,32 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="C:/Autotests/RestApiAutomationFrameworkScratches/FrameworkDemo/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="FrameworkDemo" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Autotests/RestApiAutomationFrameworkScratches/FrameworkDemo/src/test/resources/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="FrameworkDemo.test" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestNG.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="FrameworkDemo [testSuite]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="testSuite" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Autotests/RestApiAutomationFrameworkScratches/FrameworkDemo/src/test/resources/TestNG.xml" />
+        <item itemvalue="Application.RequestData" />
         <item itemvalue="Gradle.CrudTest" />
-        <item itemvalue="Gradle.FrameworkDemo [test]" />
         <item itemvalue="Gradle.CrudTest.crudTest" />
-        <item itemvalue="TestNG.C:/Autotests/RestApiAutomationFrameworkScratches/FrameworkDemo/TestNG.xml" />
+        <item itemvalue="Gradle.FrameworkDemo [testSuite]" />
+        <item itemvalue="Gradle.FrameworkDemo [runTests]" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +272,31 @@
       <option name="presentableId" value="Default" />
       <updated>1570438533026</updated>
     </task>
+    <task id="LOCAL-00001" summary="just one big commit">
+      <created>1571140854874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571140854874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="just one big commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="just one big commit" />
   </component>
 </project>
